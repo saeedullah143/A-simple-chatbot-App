@@ -1,6 +1,6 @@
 # saeedchatbot
-
-A new Flutter project.
+A Flutter app that brings a voice-enabled chatbot to streamline communication. Engage in seamless conversations, whether through text or voice, with a visually appealing interface. The app features real-time responses, user-friendly navigation, and personalized avatars. Enhance your user experience with the power of speech recognition and text-to-speech capabilities. Empower your virtual assistant with intelligent responses and a sleek design in this innovative chat application."
+Your voice-enabled chat companion. Seamlessly converse with a sleek interface, real-time responses, and intuitive navigation. Driven by smart decision-making Logic.
 
 ## Getting Started
 
